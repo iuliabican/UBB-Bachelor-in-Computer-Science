@@ -2,7 +2,7 @@
 
 <ul>
   
-  <li> :large_orange_diamond: Semester 1
+  <li> :large_red_diamond: Semester 1
     <ul style="list-style-type:none">
       <li> :small_blue_diamond:       
       </li>
@@ -16,7 +16,7 @@
     </ul>
   </li>
   
-  <li> :large_orange_diamond: Semester 3
+  <li> :large_yellow_diamond: Semester 3
     <ul style="list-style-type:none">
       <li> :small_blue_diamond:
         <a href="https://github.com/iuliabican/Functional-And-Logic-Programming"> Functional and Logic Programming </a>
