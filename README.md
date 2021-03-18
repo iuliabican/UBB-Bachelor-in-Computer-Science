@@ -4,7 +4,8 @@
   
   <li> :large_orange_diamond: Semester 1
     <ul style="list-style-type:none">
-      <li> :small_blue_diamond:       
+      <li> :small_blue_diamond:   
+        <a href="https://github.com/iuliabican/Fundamentals-of-Programming> Fundamentals Of Programming </a>
       </li>
     </ul>
   </li>
